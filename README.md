@@ -27,7 +27,6 @@ Player records are organized within the repository. Each account's stored inform
 |---|---:|
 | **Archived Players** | ![Archived Players](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FNovaDoesThings%2FAccount-Archive%2Fcontents%2FPlayerInformation&query=%24.length&label=Archived%20Players&color=blue) |
 
-*Displays the number of entries currently stored in the `PlayerInformation` folder.*
 
 ## 🛡️ Account Removal Requests
 
